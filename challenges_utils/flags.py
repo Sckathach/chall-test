@@ -1,0 +1,3 @@
+import inspect
+
+flag = "bonsoir"
